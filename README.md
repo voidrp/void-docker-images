@@ -1,6 +1,6 @@
 ## VOID's Docker Images
 
-[![Void API](https://github.com/voidrp/void-docker-images/actions/workflows/docker-publish-api.yml/badge.svg)](https://github.com/voidrp/void-docker-images/actions/workflows/docker-publish-api.yml)
+[![API](https://github.com/voidrp/void-docker-images/actions/workflows/docker-publish-api.yml/badge.svg)](https://github.com/voidrp/void-docker-images/actions/workflows/docker-publish-api.yml) [![Discord Bot](https://github.com/voidrp/void-docker-images/actions/workflows/docker-publish-bot.yml/badge.svg)](https://github.com/voidrp/void-docker-images/actions/workflows/docker-publish-bot.yml)
 
 1. Void's API Docker Image
 
